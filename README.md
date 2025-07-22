@@ -25,3 +25,4 @@ A simple and elegant To-Do List application built using Flask and SQLite that al
 5)  Task status tracking (completed/pending)
 
 6)  Persistent storage using SQLite
+ 
