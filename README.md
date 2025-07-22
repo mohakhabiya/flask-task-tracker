@@ -16,7 +16,7 @@ A simple and elegant To-Do List application built using Flask and SQLite that al
  **Features**
 1)  Add new tasks
 
-2)  Mark tasks as completed
+2)  Mark tasks as completed 
 
 3)  Delete tasks
 
